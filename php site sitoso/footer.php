@@ -1,0 +1,10 @@
+</main>
+
+<footer class="bg-dark text-white text-center py-3 mt-auto">
+    <div class="container">
+        <p class="mb-0">&copy; <?php echo date('Y'); ?> Meu Site - Todos os direitos reservados</p>
+    </div>
+</footer>
+
+</body>
+</html>
